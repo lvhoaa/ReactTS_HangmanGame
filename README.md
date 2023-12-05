@@ -5,12 +5,18 @@
 ![image](https://github.com/lvhoaa/ReactTS_HangmanGame/assets/87745938/4d12a61d-86c9-45c6-8661-99b395e52543)
 
 2. Play
+
+
 The word is fetched from a corpora of English common words.
+
+
 Here, the sample word is "money"
+
 
 In each choice, if you are correct, the letter will appear. (click "M")
 
 ![image](https://github.com/lvhoaa/ReactTS_HangmanGame/assets/87745938/ff24f5e8-6572-48de-9340-c0b93da1f2c6)
+
 
 If not, you will be punished. (click "K")
 
