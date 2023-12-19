@@ -3,7 +3,7 @@
 ## Table of Contents
 
 - [Project Overview](#project-overview)
-- [Guide & Illustration](#features)
+- [Guide & Illustration](#guide--illustration)
 - [Installation](#installation)
 - [Contributing](#contributing)
 - [License](#license)
