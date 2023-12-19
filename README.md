@@ -11,6 +11,7 @@
 
 ## Project Overview
 Hangman Game is a project built using React and Typescript to stimulate the hanging man game. Players are allowed 6 guesses to figure out the word before the hangman passes away. 
+
 Key features:
 - Fetch random words from a dataset of common English words corpora
 - Keep track of successfully guessed words using word illustration
