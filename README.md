@@ -73,7 +73,7 @@ To run the Hangman Game locally, follow these steps:
 6. Open your web browser and visit http://localhost:5173 to access the Hangman Game server.
 
 ## Contributing
-Contributions to this project are welcome! If you have any suggestions, bug fixes, or new features to propose, please open an issue or submit a pull request. Let's make the Online Shopping Website even better together!
+Contributions to this project are welcome! If you have any suggestions, bug fixes, or new features to propose, please open an issue or submit a pull request.
 
 ## License
 This project is licensed under the MIT License. You can find the full license text in the LICENSE file.
