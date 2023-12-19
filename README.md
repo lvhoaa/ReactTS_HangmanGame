@@ -1,5 +1,8 @@
-# Hangman Game built in React + TypeScript + Vite 
+# Hangman Game 
+Hangman Game is a project built using React and Typescript to stimulate the hanging man game. Players are allowed 6 guesses to figure out the word before the hangman passes away. 
 
+
+### Guide
 1. Set up
 
 ![image](https://github.com/lvhoaa/ReactTS_HangmanGame/assets/87745938/4d12a61d-86c9-45c6-8661-99b395e52543)
