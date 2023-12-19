@@ -53,7 +53,7 @@ Or Lose
 
 ## Installation 
 
-To run the Online Hangman Game locally, follow these steps:
+To run the Hangman Game locally, follow these steps:
 
 1. Clone the repository or download the source code.
    ```bash
